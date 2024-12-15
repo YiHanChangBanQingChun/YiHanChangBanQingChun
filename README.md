@@ -96,5 +96,5 @@ Explore space-time insights from large datasets.
 ---
 
 ## 🌟 Random Motivation  
-> "The best way to predict the future is to create it."
-> You can't please everyone, so don't try to.
++ **"The best way to predict the future is to create it."**
++ **"You can't please everyone, so don't try to."**
