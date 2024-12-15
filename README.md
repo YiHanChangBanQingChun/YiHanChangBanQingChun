@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YiHanChangBanQingChun&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHanChangBanQingChun&layout=compact&theme=tokyonight"&hide=css,html />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHanChangBanQingChun&layout=compact&theme=tokyonight"&hide=CSS,html />
 </div>
 
 ---
