@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 - GitHub: [YiHanChangBanQingChun](https://github.com/YiHanChangBanQingChun)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [yihanchangbanqingchun@gmail.com](mailto:yihanchangbanqingchun@gmail.com)
 
 ---
 
