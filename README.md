@@ -48,11 +48,13 @@
 
 ---
 
-## 🔍 Featured Projects  
+## 🔍 Featured Projects
 ### 🌞 **[Sunshine SmartPath](https://github.com/your-repo)**  
 Effortless glare-safe route optimization.  
 ![Stars](https://img.shields.io/github/stars/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
 ![Forks](https://img.shields.io/github/forks/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
+![Commits](https://img.shields.io/github/commits-since/YiHanChangBanQingChun/sunglare-with-vue3/all?style=flat-square)
+
 
 ### 🌐 **[Big Data Analysis with Python](https://github.com/another-repo)**  
 Explore space-time insights from large datasets.  
