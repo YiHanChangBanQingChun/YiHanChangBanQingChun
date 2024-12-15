@@ -2,12 +2,12 @@
 
 - 🎓 **GIS undergraduate student** from **Guangzhou University** (GZHU).  
 - 👀 **Passionate about**:  
-  - 🐍 Python-based crawlers  
+  - 🔲 Python-based crawlers  
   - 🌍 GIS space-time big data analysis  
   - 🖥️ Vue.js-based WebGIS development  
 - 🌱 **Currently mastering**:  
   - 🌐 GIS development  
-  - 🌲 Laser point cloud preprocessing  
+  - 🔣 Remote sensing digital image processing  
   - 📊 Scientific computing and data analysis with Python & MATLAB  
 
 ---
@@ -21,7 +21,7 @@
 
 - 📚 **Learning Focus**:  
   ![Scientific Computing](https://img.shields.io/badge/-Scientific%20Computing-blue?style=for-the-badge)  
-  ![Laser Point Cloud](https://img.shields.io/badge/-Laser%20Point%20Cloud-green?style=for-the-badge)  
+  ![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-purple?style=for-the-badge)  
   ![WebGIS](https://img.shields.io/badge/-WebGIS-orange?style=for-the-badge)  
 
 ---
@@ -41,25 +41,18 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<div align="center">
-  ![snake gif](https://github.com/YiHanChangBanQingChun/YiHanChangBanQingChun/blob/output/github-contribution-grid-snake.svg)
-</div>  
-
----
-
-## 🔍 Featured Projects
-### 🌞 **[Sunshine SmartPath](https://github.com/YiHanChangBanQingChun/sunglare-with-vue3/)**  
+## 🔍 Featured Projects  
+### 🌞 **[Sunshine SmartPath](https://github.com/your-repo)**  
 Effortless glare-safe route optimization.  
 ![Stars](https://img.shields.io/github/stars/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
 ![Forks](https://img.shields.io/github/forks/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
-![Commits](https://img.shields.io/github/commits-since/YiHanChangBanQingChun/sunglare-with-vue3/last-month?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/y/YiHanChangBanQingChun/sunglare-with-vue3?style=flat-square)
 
-
-### 🌐 **[Big Data Analysis with Python](https://github.com/YiHanChangBanQingChun/moshishibie_lib/)**  
+### 🌐 **[Big Data Analysis with Python](https://github.com/another-repo)**  
 Explore space-time insights from large datasets.  
 ![Stars](https://img.shields.io/github/stars/YiHanChangBanQingChun/moshishibie_lib?style=social)  
 ![Forks](https://img.shields.io/github/forks/YiHanChangBanQingChun/moshishibie_lib?style=social)  
+![Commits](https://img.shields.io/github/commit-activity/y/YiHanChangBanQingChun/moshishibie_lib?style=flat-square)
 
 ---
 
@@ -89,4 +82,4 @@ Explore space-time insights from large datasets.
 ---
 
 ## 🌟 Random Motivation  
-> "The best way to predict the future is to create it."  
+> "The best way to predict the future is to create it."
