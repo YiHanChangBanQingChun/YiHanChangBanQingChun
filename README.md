@@ -15,17 +15,24 @@
 ## 🚀 Highlights  
 - 💡 **Core Skills**:  
 <div align="center">  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
-  ![GIS](https://img.shields.io/badge/GIS-006600?style=for-the-badge&logo=leaflet&logoColor=white)  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-006600?style=for-the-badge&logo=leaflet&logoColor=white" />
+<!--   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+  ![GIS](https://img.shields.io/badge/GIS-006600?style=for-the-badge&logo=leaflet&logoColor=white) -->
 </div>
 
 - 📚 **Learning Focus**:  
 <div align="center">  
-  ![Scientific Computing](https://img.shields.io/badge/-Scientific%20Computing-blue?style=for-the-badge)  
+<!--   ![Scientific Computing](https://img.shields.io/badge/-Scientific%20Computing-blue?style=for-the-badge)  
   ![Remote Sensing](https://img.shields.io/badge/-Remote%20Sensing-purple?style=for-the-badge)  
-  ![WebGIS](https://img.shields.io/badge/-WebGIS-orange?style=for-the-badge)  
+  ![WebGIS](https://img.shields.io/badge/-WebGIS-orange?style=for-the-badge)   -->
+  <img src="https://img.shields.io/badge/-Scientific%20Computing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Remote%20Sensing-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-WebGIS-orange?style=for-the-badge" />
 </div>
 
 ---
