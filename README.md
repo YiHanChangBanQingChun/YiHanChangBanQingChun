@@ -36,6 +36,8 @@
 ## 🌐 Socials
 <div align="center">
   <a href="https://github.com/YiHanChangBanQingChun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!--   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://space.bilibili.com/109008161?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://www.zhihu.com/people/wang-yue-31-1-43"><img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" /></a>
+  <a href="https://x.com/HuangXing36515"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <!--   <a href="https://twitter.com/your-twitter-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </div>
