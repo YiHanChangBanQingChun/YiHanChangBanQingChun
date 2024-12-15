@@ -49,14 +49,14 @@
 ---
 
 ## 🔍 Featured Projects
-### 🌞 **[Sunshine SmartPath](https://github.com/your-repo)**  
+### 🌞 **[Sunshine SmartPath](https://github.com/YiHanChangBanQingChun/sunglare-with-vue3/)**  
 Effortless glare-safe route optimization.  
 ![Stars](https://img.shields.io/github/stars/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
 ![Forks](https://img.shields.io/github/forks/YiHanChangBanQingChun/sunglare-with-vue3?style=social)  
-![Commits](https://img.shields.io/github/commits-since/YiHanChangBanQingChun/sunglare-with-vue3/all?style=flat-square)
+![Commits](https://img.shields.io/github/commits-since/YiHanChangBanQingChun/sunglare-with-vue3/last-month?style=flat-square)
 
 
-### 🌐 **[Big Data Analysis with Python](https://github.com/another-repo)**  
+### 🌐 **[Big Data Analysis with Python](https://github.com/YiHanChangBanQingChun/moshishibie_lib/)**  
 Explore space-time insights from large datasets.  
 ![Stars](https://img.shields.io/github/stars/YiHanChangBanQingChun/moshishibie_lib?style=social)  
 ![Forks](https://img.shields.io/github/forks/YiHanChangBanQingChun/moshishibie_lib?style=social)  
