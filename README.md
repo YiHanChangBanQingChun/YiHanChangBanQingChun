@@ -88,9 +88,13 @@ Explore space-time insights from large datasets.
   <a href="https://x.com/HuangXing36515">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="mailto:yihanchangbanqingchun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>  
 
 ---
 
 ## 🌟 Random Motivation  
 > "The best way to predict the future is to create it."
+> You can't please everyone, so don't try to.
