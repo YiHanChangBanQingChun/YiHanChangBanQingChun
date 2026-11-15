@@ -38,19 +38,25 @@ I enjoy working through the full process: collecting and checking data, explorin
 
 ## 🧰 Tools & technologies
 
-<a href="https://github.com/tandpfun/skill-icons">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,vue,ts,js,vite,java,spring,fastapi,sqlite,git,pytorch,matlab&theme=dark&perline=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,vue,ts,js,vite,java,spring,fastapi,sqlite,git,pytorch,matlab&theme=light&perline=6" />
-    <img src="https://skillicons.dev/icons?i=python,vue,ts,js,vite,java,spring,fastapi,sqlite,git,pytorch,matlab&theme=light&perline=6" alt="Python, Vue, TypeScript, JavaScript, Vite, Java, Spring, FastAPI, SQLite, Git, PyTorch, MATLAB" />
-  </picture>
-</a>
+A toolkit I use and continue to explore across research, coursework, and personal projects.
 
-<p>
-  <img src="https://img.shields.io/badge/GIS-Spatial_Analysis-15803D?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="GIS" />
-  <img src="https://img.shields.io/badge/Remote_Sensing-Image_Processing-7C3AED?style=flat-square" alt="Remote sensing" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Leaflet-Web_Mapping-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet" />
+| Area | Languages, libraries & tools |
+| :--- | :--- |
+| 💻 **Programming & scripting** | Python · C++ · C# · Java · JavaScript · TypeScript · MATLAB · Bash · SQL |
+| 🌐 **Frontend & web mapping** | Vue 3 · Vite · Element Plus · Apache ECharts · HTML · CSS · Leaflet · ArcGIS Maps SDK for JavaScript (ArcGIS API for JavaScript) |
+| ⚙️ **Backend & deployment** | Spring Boot · FastAPI · Docker · Nginx · Git · GitHub Actions · GitHub Pages · SQLite |
+| 🗺️ **GIS & geospatial processing** | ArcGIS Pro · QGIS · GDAL/OGR · GeoPandas · Shapely · pyproj · GeoJSON · PostgreSQL · PostGIS |
+| ☁️ **Point clouds & 3D** | CloudCompare · Point Cloud Library (PCL) |
+| 🧠 **Scientific computing & ML** | NumPy · pandas · SciPy · Matplotlib · scikit-learn · PyTorch |
+
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,vue,html,css,bash,matlab,pytorch,spring,fastapi,docker,nginx,git,sqlite&amp;theme=dark&amp;perline=9" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,vue,html,css,bash,matlab,pytorch,spring,fastapi,docker,nginx,git,sqlite&amp;theme=light&amp;perline=9" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,vue,html,css,bash,matlab,pytorch,spring,fastapi,docker,nginx,git,sqlite&amp;theme=light&amp;perline=9" alt="Python, C++, C#, Java, JavaScript, TypeScript, Vue, HTML, CSS, Bash, MATLAB, PyTorch, Spring, FastAPI, Docker, Nginx, Git, SQLite" />
+    </picture>
+  </a>
 </p>
 
 ## 🚀 Selected projects
