@@ -38,7 +38,7 @@ I enjoy working through the full process: collecting and checking data, explorin
 
 ## 🧰 Tools & technologies
 
-A toolkit I use and continue to explore across research, coursework, and personal projects.
+A toolkit I use and continue to explore across research, coursework, and personal projects. 
 
 | Area | Languages, libraries & tools |
 | :--- | :--- |
